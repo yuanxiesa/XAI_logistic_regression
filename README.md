@@ -1,1 +1,1 @@
-# XAI_logistic_regression
+# XAI logistic regression
