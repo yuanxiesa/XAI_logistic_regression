@@ -1,4 +1,4 @@
-# XAI logistic regression
+# Explain logistic regression models
 
 [**powerpoint slides**](https://docs.google.com/presentation/d/13CahwVWoginif0GFUCQ7hpnUw5i0CGDypnAQUqvbqCk/edit?usp=sharing)
 
