@@ -1,5 +1,8 @@
 # Explain logistic regression models
 
+## Description
+This repository holds materials for teaching how to explain logistic regression models.
+
 [**powerpoint slides**](https://docs.google.com/presentation/d/13CahwVWoginif0GFUCQ7hpnUw5i0CGDypnAQUqvbqCk/edit?usp=sharing)
 
 ## File description
